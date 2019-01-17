@@ -1,0 +1,17 @@
+body {
+    
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+img.spring{
+  width: 300px; height: 100px;
+}
